@@ -1,0 +1,5 @@
+The Calculator app for Windows is a touch-friendly version of the desktop calculator in previous versions of Windows.
+
+You can open multiple calculators at the same time in resizable windows on the desktop and switch between Standard, Scientific, Graphing, Programmer, Date calculation, and Converter modes.
+
+To get started, select Start , and then select Calculator in the list of apps
